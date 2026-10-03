@@ -1,0 +1,6 @@
+{
+  "name": "RapidRoute+ — Hospital Emergency Route System",
+  "description": "Hospital emergency route optimization and triage command system powered by Dijkstra's algorithm, Priority Queue, and BFS graph exploration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
